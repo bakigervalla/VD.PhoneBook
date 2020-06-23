@@ -1,0 +1,17 @@
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.NUnitTest.deps.json
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.NUnitTest.runtimeconfig.json
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.NUnitTest.runtimeconfig.dev.json
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.NUnitTest.dll
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.NUnitTest.pdb
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.PhoneBook.dll
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\bin\Debug\netcoreapp2.2\VD.PhoneBook.pdb
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.csprojAssemblyReference.cache
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.AssemblyInfoInputs.cache
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.AssemblyInfo.cs
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.csproj.CopyComplete
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.dll
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.NUnitTest\obj\Debug\netcoreapp2.2\VD.NUnitTest.pdb

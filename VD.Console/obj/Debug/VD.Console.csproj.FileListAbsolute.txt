@@ -1,0 +1,10 @@
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\obj\Debug\VD.Console.csproj.CoreCompileInputs.cache
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\bin\Debug\VD.Console.exe.config
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\bin\Debug\VD.Console.exe
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\bin\Debug\VD.Console.pdb
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\bin\Debug\VD.PhoneBook.dll
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\bin\Debug\VD.PhoneBook.pdb
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\obj\Debug\VD.Console.csprojAssemblyReference.cache
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\obj\Debug\VD.Console.csproj.CopyComplete
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\obj\Debug\VD.Console.exe
+C:\Users\BGERVALLA\Documents\Visual Studio 2017\Projects\VD.PhoneBook\VD.Console\obj\Debug\VD.Console.pdb
